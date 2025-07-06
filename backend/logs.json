@@ -1,0 +1,14 @@
+[
+  {
+    "level": "error",
+    "message": "Database connection failed",
+    "resourceId": "server-1234",
+    "timestamp": "2025-07-06T18:14:55.573Z",
+    "traceId": "trace-001",
+    "spanId": "span-001",
+    "commit": "a1b2c3d",
+    "metadata": {
+      "parentResourceId": "server-5678"
+    }
+  }
+]
